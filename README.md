@@ -9,7 +9,7 @@ planning & controls.
 🎶 Especially, I am an expert in **developing motion planning methods for UAVs** such as obstacle avoidance and dynamic target following.
 
 🖥️ You can discover me from:
-- website: [motion-boseong.com](/motion-boseong.com)
+- website: [motion-boseong.com](https://www.motion-boseong.com)
 - youtube: [link](https://www.youtube.com/channel/UCPeLtCD0ouhFdLO60V7pjlw)
 - linkedin: [Felipe Jeon](https://www.linkedin.com/in/felipe-jeon-491773226/)
 - medium: [junbs95](https://medium.com/@junbs95)
