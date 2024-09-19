@@ -1,10 +1,10 @@
 # Hello world! I am Boseong Felipe Jeon 😃
 
-🤖 I am a robotics engineer who loves building a
-robotic system and exploring the latest advancements in the field of robotics.\
+🤖 I am a robotics & AI engineer who loves building a
+robotic system and exploring the latest advancements in the field of robotics and AI.\
 As a dedicated researcher and a developer with PhD, I have covered a wide range of
 areas from designing hardwares, object recognition, online spatial mapping, and motion
-planning & controls.
+planning & controls. Currently, I am working on generative AI in *Visual Inteligence Team* of Samsung Research
 
 🎶 Especially, I am an expert in **developing motion planning methods for UAVs** such as obstacle avoidance and dynamic target following.
 
@@ -16,10 +16,12 @@ planning & controls.
 
 
 ## Currently, 
-- I am working as a staff engineer in robot intelligence team in Samsung Research.
-- I am developing motion planning algorithms for mobile robots including robotic cleaners.
+- I am working as a staff engineer in vision intelligence team in Samsung Research.
+- I am developing generative vision model from adapter and embedding design.
 
 ## Previously, 
+- I am working as a staff engineer in robot intelligence team in Samsung Research.
+- I am developing motion planning algorithms for mobile robots including robotic cleaners.
 ### Educations
 
 - Received BS in mechanical & aerospace engineering at
